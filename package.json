@@ -1,0 +1,27 @@
+{
+  "name": "developerprofilegenerator",
+  "version": "1.0.0",
+  "description": "# Unit 09 Node.js and ES6+ Homework: Developer Profile Generator",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.19.1",
+    "electron": "^7.1.9",
+    "inquirer": "^7.0.3",
+    "pdfkit": "^0.11.0",
+    "puppeteer": "^2.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marykatewhite/DeveloperProfileGenerator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marykatewhite/DeveloperProfileGenerator/issues"
+  },
+  "homepage": "https://github.com/marykatewhite/DeveloperProfileGenerator#readme"
+}
